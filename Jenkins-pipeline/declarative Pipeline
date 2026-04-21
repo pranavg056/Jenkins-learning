@@ -1,0 +1,3 @@
+Declarative Pipeline
+This directory contains examples of Jenkins Declarative Pipelines. Declarative Pipeline is a more recent and structured way to define your continuous delivery pipelines 
+in Jenkins. It offers a simplified and more opinionated syntax compared to Scripted Pipelines, making it easier to write and read.
